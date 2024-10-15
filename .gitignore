@@ -163,3 +163,5 @@ cython_debug/
 #.idea/
 
 data/nba.sqlite
+.virtual_documents
+*.DS_STORE*
