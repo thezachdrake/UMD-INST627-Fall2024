@@ -47,7 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "issue3__changes"
+    "git-widget-placeholder": "ishan__analyticQS"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -75,6 +75,11 @@
           <url>notebook://C:/Users/Ishaan/Documents/GitHub/UMD-INST627-Fall2024/notebooks/bhosekar.ipynb</url>
           <line>1</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Ishaan/Documents/GitHub/UMD-INST627-Fall2024/notebooks/bhosekar.ipynb</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
